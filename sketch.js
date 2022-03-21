@@ -73,7 +73,7 @@ function draw(){
 
    
     if(score===5){
-      start.play();
+     // start.play();
     }
     if(score===600){
       checkpoint.play();
